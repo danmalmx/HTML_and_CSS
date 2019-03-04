@@ -59,7 +59,7 @@
  
 ## Knowledge Timeline
 
-#### Animated resume build with HTML and CSS with a little bit of JS sprinkled in.
+#### Animated responsiveresume build with HTML and CSS with a little bit of JS sprinkled in.
 
 #### <a href="https://danmalmx.github.io/knowledge_timeline">Online demo </a>
 
@@ -71,7 +71,7 @@
 
 ## NewsGrid
 
-#### Demo news site created using CSS Grid.
+#### Responsive demo news site created using CSS Grid.
 
 #### <a href="https://danmalmx.github.io/NewsGrid">Online demo </a>
 
