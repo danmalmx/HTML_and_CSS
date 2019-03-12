@@ -57,6 +57,7 @@
  <img src="https://media.giphy.com/media/dllBxBmlVF4QNo8VFg/giphy.gif" />
  
  
+ 
 ## Knowledge Timeline
 
 #### Animated responsiveresume build with HTML and CSS with a little bit of JS sprinkled in.
@@ -65,7 +66,7 @@
 
 #### Screenshot - TO BE ADDED
 
- <img src="" />
+ <img src="https://media.giphy.com/media/30pMIK1pg1i91cOIVi/giphy.gif" />
  
 
 
@@ -80,6 +81,7 @@
  <img src="https://media.giphy.com/media/43MXUjQki4toKd1vv1/giphy.gif" />
  
  
+ 
 ## UI/UX Portfolio
 
 #### Responsive demo portfolio site using SASS.
@@ -88,4 +90,4 @@
 
 #### Screenshot
 
- <img src="" />
+ <img src="https://media.giphy.com/media/4ZvGRualWIiGxVQwNa/giphy.gif" />
