@@ -84,7 +84,7 @@
  
 ## UI/UX Portfolio
 
-#### Responsive demo portfolio site using SASS.
+#### Responsive demo portfolio site using SASS and some JavaScript (typewriter).
 
 #### <a href="https://danmalmx.github.io/sass_portfolio/dist/">Online demo </a>
 
