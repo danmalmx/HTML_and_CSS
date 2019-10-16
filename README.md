@@ -49,10 +49,6 @@
 
 #### <a href="https://danmalmx.github.io/NewsGrid">Online demo </a>
 
-#### Screenshot
-
- <img src="https://media.giphy.com/media/43MXUjQki4toKd1vv1/giphy.gif" />
- 
  
  
 ## UI/UX Portfolio
@@ -61,6 +57,3 @@
 
 #### <a href="https://danmalmx.github.io/sass_portfolio/dist/">Online demo </a>
 
-#### Screenshot
-
- <img src="https://media.giphy.com/media/4ZvGRualWIiGxVQwNa/giphy.gif" />
